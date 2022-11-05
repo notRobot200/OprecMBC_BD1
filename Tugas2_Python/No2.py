@@ -6,7 +6,7 @@ y = input("apakah member (y/t): ") # apakah konsumen member/bukan?
 
 if y == 'y': # jika member diskon 5%
     disc = 5/100
-    tot = X*disc
+    tot = int(X - (X*disc))
     if 500000 <= X <= 1000000: # total belanja 500ribu-1jt diskon 2%
         disc = disc + 2/100
         tot = int(X - (X*disc))
