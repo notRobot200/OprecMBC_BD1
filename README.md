@@ -1,4 +1,4 @@
-# OprecMBC_Kelompok
+# OprecMBC_BD1
 The repository for task 2 on oprec MBC 
 
 Hi, we are from big data 1.
