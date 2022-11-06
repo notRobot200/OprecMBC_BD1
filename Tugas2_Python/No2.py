@@ -18,5 +18,3 @@ if y == 'y': # jika member diskon 5%
         print("Selamat anda mendapatkan diskon", "{:.0%}".format(disc))
     else: # total belanja < 500000 dan member
         print("selamat anda mendapatkan diskon", "{:.0%}".format(disc))
-
-![ss_akun_linkedin_eug](https://user-images.githubusercontent.com/117140539/200156943-ef56ada1-1b50-4bdc-b4ec-12b5bc1ce332.png)
